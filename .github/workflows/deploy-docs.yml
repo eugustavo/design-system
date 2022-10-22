@@ -21,8 +21,8 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: AleQofo8Jl6vfDplNkRYSJJa
-          TURBO_TEAM: eugustavo
+          TURBO_TOKEN: BF3nZ13g1lbEntRb8ELHP7cx
+          TURBO_TEAM: gustavo-souza-design-system
 
       - name: Deploy storybook
         working-directory: ./packages/docs
