@@ -1,5 +1,11 @@
 # @gustavosouza/react
 
+## 2.3.0
+
+### Minor Changes
+
+- Include toast component
+
 ## 2.2.0
 
 ### Minor Changes
